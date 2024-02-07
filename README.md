@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="340" src="https://raw.githubusercontent.com/timschneider42/franky/master/doc/logo.svg?sanitize=true">
+  <img width="340" src="[https://raw.githubusercontent.com/timschneider42/franky/master/doc/logo.svg?sanitize=true](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/vintage-franky-one-piece-anime-gifts-idea-lotus-leafal.jpg)">
   <h3 align="center">
     High-Level Motion Library for the Franka Emika Robot
   </h3>
