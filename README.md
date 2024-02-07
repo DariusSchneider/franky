@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="340" src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/vintage-franky-one-piece-anime-gifts-idea-lotus-leafal.jpg">
+  <img width="340" src="https://images.fineartamerica.com/images/artworkimages/medium/3/graphic-franky-one-piece-anime-gifts-for-fans-lotus-leafal-transparent.png">
   <h3 align="center">
     High-Level Motion Library for the Franka Emika Robot
   </h3>
